@@ -58,4 +58,9 @@ This document reflects my **original thought process**, enhanced by AI assistanc
 
 **Output** :
 
+ [Image](https://github.com/user-attachments/assets/a4590700-a62b-48ca-9f6a-5b39de8b329e)
+![Image](https://github.com/user-attachments/assets/3a3150ea-918b-44a2-b556-da660fb8365f)
+![Image](https://github.com/user-attachments/assets/a4541734-2c16-4235-9acd-81958584e894)
+![Image](https://github.com/user-attachments/assets/48070623-716d-4689-80f0-91b77c692fce)
+![Image](https://github.com/user-attachments/assets/2633c912-1e66-4c07-97a1-cd31276b8fde) 
 
