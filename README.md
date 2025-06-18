@@ -55,3 +55,11 @@ To measure success, I have included:
 This **Content Marketing Strategy** combines **human creativity with AI efficiency** to deliver a scalable, measurable, and impactful approach. By leveraging **ChatGPT and AI tools**, I have ensured that the content remains **relevant, engaging, and optimized for performance** while reducing manual workload. The strategy is flexible, allowing adjustments based on real-time data, ensuring long-term success in a competitive digital space.  
 
 This document reflects my **original thought process**, enhanced by AI assistance, to create a **well-researched, actionable, and results-driven** content marketing plan.  
+
+**Output** :
+
+Image](https://github.com/user-attachments/assets/d9c45090-2481-4319-8125-b0406287afa4)
+![Image](https://github.com/user-attachments/assets/e3f6a4f9-4888-4128-8b4e-9b5df1042d68)
+![Image](https://github.com/user-attachments/assets/67ae82e6-5c87-4a83-a044-f69905b99a44)
+![Image](https://github.com/user-attachments/assets/8b24c1a5-ec2d-4f89-b2cd-815fcad7bc74)
+![Image](https://github.com/user-attachments/assets/e648bf7b-3ba2-4029-a582-27d9c1278061)  
