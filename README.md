@@ -63,3 +63,5 @@ This document reflects my **original thought process**, enhanced by AI assistanc
 ![Image](https://github.com/user-attachments/assets/2c095f74-1ac8-47cb-8dcb-1a2c8c87d98b)
 ![Image](https://github.com/user-attachments/assets/207ef198-c1b0-4a8d-b045-c5f6cc88ee4e)
 ![Image](https://github.com/user-attachments/assets/bff5aaf9-5610-4d7f-b79b-5a840a998232) 
+
+CodTech_Content_Marketing_Strategy.docx](https://github.com/user-attachments/files/20823176/CodTech_Content_Marketing_Strategy.docx)
