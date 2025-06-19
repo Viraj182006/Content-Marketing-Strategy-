@@ -58,3 +58,4 @@ This document reflects my **original thought process**, enhanced by AI assistanc
 
 **Output** :
 
+![Image](https://github.com/user-attachments/assets/e481fb0b-916e-4a36-b974-5a5a6dcc2b45) 
